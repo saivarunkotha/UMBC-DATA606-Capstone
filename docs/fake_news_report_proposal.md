@@ -5,7 +5,7 @@
 
 **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 
-**Author Name:** [Saivarun Kotha]
+**Author Name:** Saivarun Kotha
 
 **GitHub Repo:** [(https://github.com/saivarunkotha/UMBC-DATA606-Capstone/tree/main)]
 
