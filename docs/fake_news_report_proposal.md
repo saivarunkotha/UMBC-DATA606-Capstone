@@ -1,8 +1,4 @@
 
-# Proposal Report
-
----
-
 ## Title and Author
 
 **Project Title:** Identifying and Classifying Fake News with Machine Learning
