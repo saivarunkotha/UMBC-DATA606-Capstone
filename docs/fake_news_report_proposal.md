@@ -66,3 +66,5 @@ The dataset used for this project was obtained from an kaggle repository consist
 ### Features/Predictors:
 
 - The primary predictor will be the **"Text"** column, from which features such as word frequency, sentiment, and various NLP-derived statistics can be extracted for the model.
+
+
