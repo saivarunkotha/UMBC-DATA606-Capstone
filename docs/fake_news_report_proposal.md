@@ -1,5 +1,5 @@
 
-## Title and Author
+## 1.Title and Author
 
 **Project Title:** Identifying and Classifying Fake News with Machine Learning
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Background
+## 2.Background
 
 ### What is it about?
 
@@ -32,7 +32,7 @@ Fake news can influence public opinion, distort facts, and lead to significant c
 
 ---
 
-## Data
+## 3.Data
 
 ### Data sources:
 
