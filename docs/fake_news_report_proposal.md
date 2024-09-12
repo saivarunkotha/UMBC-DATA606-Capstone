@@ -18,17 +18,18 @@
 
 ### What is it about?
 
-This project focuses on detecting and classifying fake news using machine learning techniques. The increase in the amount of misleading and fabricated news on the internet has raised many concerns about its societal and political implications, and ability to identify fake news .
+This project focuses on detecting and classifying fake news using machine learning techniques(mainly SVM)and MLP techniques. The increase in the amount of misleading and fabricated news on the internet has raised many concerns about its societal and political implications, and ability to identify fake news. The goal is to create an accurate model for distinguishing real/fake news. 
 
 ### Why does it matter?
 
-Fake news can influence public opinion, change facts, and lead to significant consequences in areas such as politics, health, and social behavior. It is essential to develop reliable methods to identify and classify false information to maintain the integrity of information consumed by the public.
+Fake news can influence public opinion, change facts, and lead to significant consequences in areas such as politics, health. The spread of misinformation is increased greatly by the social media. It is essential to develop efficient and reliable models to identify and classify false information to maintain the integrity of information consumed by the public.
 
 ### Research Questions:
 
-1. Can we use NLP techniques to extract meaningful features from text to classify news articles as real or fake?
-2. Which machine learning models perform best in classifying news articles as fake or real?
-3. How can we improve the accuracy of fake news detection?
+1. Can we accurately classify news articles as real/fake using SVM model?
+2. Which machine learning models perform best in classifying news articles as fake or real(using metrics such as accuracy, precision, recall)?
+3. Can we use any NLP techniques such as TF-IDF and sentiment analysis to enhance the model's performance?
+4. How can we improve the accuracy of fake news detection?
 
 ---
 
@@ -36,7 +37,7 @@ Fake news can influence public opinion, change facts, and lead to significant co
 
 ### Data sources:
 
-The dataset used for this project was obtained from an online source consisting of fake and real news articles. The dataset is pre-labeled for binary classification, where the target variable represents whether a news article is fake or real.
+The dataset used for this project was obtained from an kaggle repository consisting of fake and real news articles. The dataset is pre-labeled for binary classification, where the target variable represents whether a news article is fake or real.
 
 ### Data size:
 
@@ -44,12 +45,12 @@ The dataset used for this project was obtained from an online source consisting 
 
 ### Data shape:
 
-- The dataset has **9,865 rows** and **2 columns**.
+- The dataset has **9,900 rows** and **2 columns**.
 
 
 ### What does each row represent?
 
-- Each row represents a single news article, with the article's content and a corresponding label indicating whether the news is classified as "Fake" or "Real."
+- Each row represents a news article, with the article's content and a corresponding label indicating whether the news is classified as "Fake" or "Real."
 
 ### Data dictionary:
 
