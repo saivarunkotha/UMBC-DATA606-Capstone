@@ -3,37 +3,28 @@
 ![Headshot](Headshot.jpeg)
 
 **Programmer Analyst**  
-Hyderabad, India  
-[saivarun.kotha23@gmail.com](mailto:saivarun.kotha23@gmail.com) | 9640212118  
+4755 Chapel Sq, Arbutus, Baltimore, 21227  
+[kothasaivarun2601@gmail.com](mailto:kothasaivarun2601@gmail.com) | 410-478-8101 
 [LinkedIn](https://linkedin.com/in/kotha-saivarun-bab4791b0) | [GitHub](https://github.com/varunsai2601)
 
 ---
 
 ## EDUCATION
 
-**Bachelor of Engineering**  
-_Vasavi College of Engineering_  
-06/2018 - 06/2022  
+**M.P.S in Data Science**  
+_University of Maryland Baltimore county(UMBC)_  
+08/2023-  
 GPA: 8.51/10 | Stream: Electronics and Communications Engineering
 
-**Intermediate**  
-_Sri Chaitanya Junior College_  
-05/2016 - 06/2018  
-Percentage: 91.3%
-
-**SSC**  
-_Keshavareddy Concept School_  
-06/2011 - 04/2016
 
 ---
 
 ## SKILLS
 
-- **Programming Languages:** C, C++, Java, Python
-- **Web Technologies:** HTML, CSS
+- **Programming Languages:** C, C++, Python
+- **Web Technologies:** HTML, CSS, Azure
 - **Big Data & Analytics:** Hadoop, Spark, PySpark
 - **Database Management:** DBMS
-- **Other Skills:** Leadership, Fast Learning
 
 ---
 
@@ -52,6 +43,8 @@ _01/2021 - 06/2021_
 **Knock Detection Door Lock**  
 _08/2019 - 03/2020_  
 - Designed a door lock system with knock detection capability.
+
+**
 
 ---
 
