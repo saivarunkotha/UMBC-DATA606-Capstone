@@ -18,7 +18,7 @@
 
 ### What is it about?
 
-This project focuses on detecting and classifying fake news using natural language processing (NLP) and machine learning techniques. The proliferation of misleading and fabricated news on the internet has raised concerns about its societal and political implications, making the ability to identify fake news crucial.
+This project focuses on detecting and classifying fake news using machine learning techniques. The proliferation of misleading and fabricated news on the internet has raised concerns about its societal and political implications, making the ability to identify fake news crucial.
 
 ### Why does it matter?
 
