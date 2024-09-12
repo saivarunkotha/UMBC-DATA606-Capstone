@@ -9,15 +9,12 @@
 
 **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 
-**Author Name:** [Insert Your Name Here]
+**Author Name:** [Saivarun Kotha]
 
-**GitHub Repo:** [Link to the Author's GitHub repo of the project]
+**GitHub Repo:** [(https://github.com/saivarunkotha/UMBC-DATA606-Capstone/tree/main)]
 
-**LinkedIn Profile:** [Link to the Author's LinkedIn profile]
+**LinkedIn Profile:** [(https://www.linkedin.com/in/kothasaivarun/)]
 
-**PowerPoint Presentation:** [Link to the PowerPoint presentation file]
-
-**YouTube Video:** [Link to the YouTube video]
 
 ---
 
@@ -47,15 +44,12 @@ The dataset used for this project was obtained from an online source consisting 
 
 ### Data size:
 
-- The dataset is approximately 154.8 KB in size.
+- The dataset is approximately 25MB in size.
 
 ### Data shape:
 
-- The dataset contains **9,900 rows** and **2 columns**.
+- The dataset has **9,865 rows** and **2 columns**.
 
-### Time period:
-
-- The dataset does not include specific time-bound data as it focuses on text articles and their labels.
 
 ### What does each row represent?
 
