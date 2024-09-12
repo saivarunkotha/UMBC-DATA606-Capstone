@@ -18,11 +18,11 @@
 
 ### What is it about?
 
-This project focuses on detecting and classifying fake news using machine learning techniques. The proliferation of misleading and fabricated news on the internet has raised concerns about its societal and political implications, making the ability to identify fake news crucial.
+This project focuses on detecting and classifying fake news using machine learning techniques. The increase in the amount of misleading and fabricated news on the internet has raised many concerns about its societal and political implications, and ability to identify fake news .
 
 ### Why does it matter?
 
-Fake news can influence public opinion, distort facts, and lead to significant consequences in areas such as politics, health, and social behavior. It is essential to develop reliable methods to identify and classify false information to maintain the integrity of information consumed by the public.
+Fake news can influence public opinion, change facts, and lead to significant consequences in areas such as politics, health, and social behavior. It is essential to develop reliable methods to identify and classify false information to maintain the integrity of information consumed by the public.
 
 ### Research Questions:
 
