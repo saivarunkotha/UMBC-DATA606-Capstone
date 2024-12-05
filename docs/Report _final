@@ -1,0 +1,80 @@
+# Fake News Detection Using Machine Learning
+
+## 1. Title and Author
+
+- Project Title: Fake News Detection Using Machine Learning
+- Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
+- Author Name: [Your Name]
+- [GitHub Repository Link](https://github.com/YourUsername/FakeNewsDetection)
+- [LinkedIn Profile](https://www.linkedin.com/in/YourProfile)
+- [PowerPoint Presentation Link](https://your-presentation-link)
+- [YouTube Video Link](https://your-video-link)
+
+## 2. Background
+
+This project focuses on developing a machine learning model to detect fake news articles. With the rise of digital media, misinformation has become a significant problem, leading to widespread confusion and societal issues. The primary goal is to build a predictive model that can distinguish between real and fake news, providing a reliable solution for automated content verification.
+
+Research questions include:
+- Can a machine learning model effectively distinguish between real and fake news?
+- Which features are most informative in identifying fake news?
+- How can this solution be made accessible to non-technical users?
+
+## 3. Data
+
+The dataset used for this project is a collection of real and fake news articles.
+
+- **Data sources**: Kaggle dataset containing labeled fake and real news articles.
+- **Data size**: Approximately 30 MB.
+- **Data shape**: 20,000 rows and 2 columns ("Text", "label").
+- **Time period**: Not time-bound.
+- **Each row represents**: A single news article.
+
+**Data Dictionary**:
+- **Text**: Article content (String).
+- **label**: Classification of the article (String: "Real" or "Fake").
+
+**Target variable**: "label" column (Real or Fake).
+
+**Features**: The primary feature used is the "Text" column, which contains the news content.
+
+## 4. Exploratory Data Analysis (EDA)
+
+EDA was performed to gain insights into the dataset before modeling:
+
+- Summary statistics were generated for article lengths, showing significant variance between real and fake articles.
+- Visualizations, including histograms and bar plots, were created using **Plotly Express** to illustrate distributions, such as article length and the frequency of common words.
+- Text preprocessing included normalization, stopword removal, and tokenization, ensuring the data was ready for machine learning.
+- Checked for missing values and duplicates. No significant issues were found.
+- Created word clouds to compare commonly used words in real vs. fake articles.
+- The resulting dataset was structured such that each row represented a unique news article, and each column represented a distinct property of that article.
+
+## 5. Model Training
+
+Two machine learning models were used for predictive analysis:
+- **Support Vector Machine (SVM)**
+- **Logistic Regression**
+
+The dataset was split into **80% training** and **20% testing**. 
+
+- **Python packages used**: Scikit-learn, Pandas, and NLTK.
+- **Development environment**: Jupyter Notebook and Streamlit for deployment.
+- **Model Performance Evaluation**: Accuracy, Precision, Recall, and F1 Score were used to evaluate the models.
+
+## 6. Application of the Trained Models
+
+A web application was developed using **Streamlit** to enable users to interact with the trained models.
+- Users can input a news article, and the app will classify it as either "Real" or "Fake".
+- The app provides a user-friendly interface, making the solution accessible to non-technical audiences.
+
+## 7. Conclusion
+
+This project successfully built a machine learning model to detect fake news, making it accessible through a web application. Despite promising results, the model could be improved by using larger datasets and more advanced models, such as neural networks. 
+
+Key limitations include potential biases in the dataset and the limitation of using textual features only. Future research could explore incorporating metadata or using more sophisticated models like transformers.
+
+## 8. References
+
+- Pathak, R., & Patil, S. (2019). Fake News Detection Using Machine Learning. IEEE Xplore.
+- Shu, K., et al. (2017). Fake News Detection on Social Media: A Data Mining Perspective. ACM Digital Library.
+- Bird, S., et al. (2009). Natural Language Processing with Python. O'Reilly Media.
+- Streamlit Documentation. (2023). Streamlit: Turn Data Scripts into Sharable Web Apps.
