@@ -1,103 +1,56 @@
-# KOTHA SAIVARUN
-
 ![Headshot](Headshot.jpeg)
 
-**Programmer Analyst**  
-4755 Chapel Sq, Arbutus, Baltimore, 21227  
-[kothasaivarun2601@gmail.com](mailto:kothasaivarun2601@gmail.com) | 410-478-8101 
-[LinkedIn](https://linkedin.com/in/kotha-saivarun-bab4791b0) | [GitHub](https://github.com/varunsai2601)
+# Saivarun Kotha
+**Location:** Maryland, USA  
+**Phone:** 410-478-8101  
+**Email:** [kothasaivarun2601@gmail.com](mailto:kothasaivarun2601@gmail.com)  
+**LinkedIn:** [kothasaivarun](https://www.linkedin.com/in/kothasaivarun/)  
+**GitHub:** [saivarunkotha](https://github.com/saivarunkotha)  
 
----
-
-## EDUCATION
-
+## Education
 **M.P.S in Data Science**  
-_University of Maryland Baltimore county(UMBC)_  
-08/2023-  
-GPA: 8.51/10 | Stream: Electronics and Communications Engineering
+University of Maryland Baltimore County, Baltimore, MD  
+Expected Graduation: May 2025  
 
+## Projects
+### Job Market Analysis Using LinkedIn Dataset (2024)
+- Conducted a comprehensive analysis of job market trends utilizing a LinkedIn dataset composed of three CSV files detailing job skills, summaries, and postings.
+- Implemented MapReduce in the Databricks environment for efficient data processing.
+- Visualized high-demand job positions and industry domains using PowerBI to present actionable insights on employment opportunities.
 
----
+### Fake News Detection Using SVM (2024)
+- Developed a machine learning model to detect fake news using a dataset of nearly 20,000 articles, categorizing them into real or fake.
+- Utilized natural language processing techniques, including stop words removal and TF-IDF vectorization, to preprocess text data.
+- Designed and deployed a Streamlit web application to enable real-time fake news detection accessible via the web.
 
-## SKILLS
+### Smart Attendance Marking System (2022)
+- Designed an automated attendance system that utilizes facial recognition technology to streamline the attendance process.
+- Integrated real-time image processing techniques to ensure accurate identification and verification of individuals.
 
-- **Programming Languages:** C, C++, Python
-- **Web Technologies:** HTML, CSS, Azure
-- **Big Data & Analytics:** Hadoop, Spark, PySpark
-- **Database Management:** DBMS
+### Traffic Monitoring System (2021)
+- Analyzed traffic flow data to develop predictive models that assist in traffic management and congestion prediction.
+- Deployed sensor networks and real-time data analytics to enhance traffic decision support systems.
 
----
+### Analyzing and Predicting COVID-19 Cases (2020)
+- Developed a predictive model to analyze and forecast COVID-19 case trends based on historical data and current health reports.
+- Utilized various statistical and machine learning algorithms to enhance the accuracy of predictions and inform public health decisions.
 
-## PROJECTS
+## Experience
+**Programmer Analyst, Cognizant Technology Solutions (Feb 2022 - Jul 2023)**
+- Enhanced the efficiency of ETL processes by developing and integrating new components into the existing data pipeline, reducing data processing time by 20%.
+- Leveraged Databricks and PYSQL to manage and analyze extracted data, improving data accuracy and accessibility.
+- Automated routine data entry and cleaning tasks using Azure Data Factory, increasing data throughput and reliability.
+- Created and maintained comprehensive dashboards in PowerBI, enabling real-time data insights and trend analysis which contributed to a 15% increase in operational efficiency for a life sciences client.
+- Ensured compliance with various data privacy and life sciences regulations across multiple countries, safeguarding client data and avoiding regulatory fines.
 
-**Dynamic Computation Offloading in Edge Computing for the Internet of Things**  
-_08/2021 - 05/2022_  
-- Developed a system to distribute large program files into smaller modules, optimizing compile time in edge computing environments.  
-- Project Score: 9.8/10
+## Technical Skills
+- **Languages:** Python, C, C++, SQL, JAVA, HTML&CSS
+- **Data Visualization:** PowerBI, Tableau, Lucid Chart
+- **Big Data Technologies:** Hadoop, Databricks, Apache Spark, HDFS, Apache Pig, AWS, Azure
+- **Machine Learning Algorithms:** Linear/Logistic Regression, Decision Trees, Random Forest, Support Vector Machines, Naïve Bayes, K-Nearest Neighbors, Principal Component Analysis, DBSCAN, Scikit Learn, Keras, OpenCV
 
-**Analyzing and Predicting COVID-19 Using ML Models**  
-_01/2021 - 06/2021_  
-- Analyzed COVID-19 datasets from Johns Hopkins University using NumPy and Pandas.  
-- Forecasted future cases using the Prophet model and visualized data with Matplotlib.
-
-**Knock Detection Door Lock**  
-_08/2019 - 03/2020_  
-- Designed a door lock system with knock detection capability.
-
-**
-
----
-
-## WORK EXPERIENCE
-
-**Programmer Analyst**  
-_Cognizant Technology Solutions_  
-11/2022 - Present
-
-**Programmer Analyst Trainee**  
-_Cognizant Technology Solutions_  
-02/2022 - 08/2022
-
----
-
-## CERTIFICATIONS
-
-- **Cisco Certification-CCNA**  
-  - Introduction to Networks, Switching, Routing, and Wireless Essentials  
-  - Enterprise Networking, Security, and Automation
-
-- **Coursera**  
-  - An Introduction to Programming the Internet of Things (IoT)
-
-- **NPTEL**  
-  - Digital Electronic Circuits (01/2020 - 04/2020)  
-  - Introduction to Python Programming  
-  - Introduction to Hadoop and Hadoop V2.0  
-  - Data Warehouse Fundamentals for Beginners  
-  - Spark and Python for Big Data with PySpark
-
----
-
-## EXTRACURRICULAR ACTIVITIES
-
-- Organized workshops on Arduino and NodeMCU for second-year students
-- Presented a paper at Euphoria
-- Student Coordinator for “Euphoria” and “ACUMEN” cultural fests (2019)
-
----
-
-## LANGUAGES
-
-- **English:** Full Professional Proficiency
-- **Telugu:** Native/Bilingual Proficiency
-- **Hindi:** Native/Bilingual Proficiency
-
----
-
-## INTERESTS
-
-- Movies
-- Badminton
-- Volleyball
-- Reading Novels
-
+## Certifications
+- **Microsoft Certified: Azure Fundamentals**  
+Credential ID: F0EA4563C72EAEDF (Jun 2023)
+- **Cybersecurity Essentials, CISCO**  
+(Jun 2021)
