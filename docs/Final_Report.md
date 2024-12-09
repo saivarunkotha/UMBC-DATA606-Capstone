@@ -8,7 +8,7 @@
 -  [GitHub Repository Link](https://github.com/saivarunkotha/UMBC-DATA606-Capstone/tree/main)
 - [LinkedIn Profile](https://www.linkedin.com/in/kothasaivarun/)
 - [PowerPoint Presentation Link](https://docs.google.com/presentation/d/1p_5e1AZjwhkqdMMwesVnIEe9rtcWYqdricBpvcqyx50/edit?usp=sharing)
-- [YouTube Video Link](https://your-video-link)
+- [YouTube Video Link](https://youtu.be/7xtKX4Ix9AQ)
 
 ## 2. Background
 ### What is it about?
