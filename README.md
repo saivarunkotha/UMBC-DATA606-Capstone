@@ -53,7 +53,6 @@ Each row represents a single news article. The `text` column contains the full a
 Two models were trained and compared:
 
 | Model | Accuracy 
-|---|---|---|---|---|
 | Support Vector Machine (SVM) | 94%
 | Logistic Regression | 89%
 
