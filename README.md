@@ -52,12 +52,11 @@ Each row represents a single news article. The `text` column contains the full a
 
 Two models were trained and compared:
 
-| Model | Accuracy | Precision | Recall | F1 Score |
+| Model | Accuracy 
 |---|---|---|---|---|
-| Support Vector Machine (SVM) | — | — | — | — |
-| Logistic Regression | — | — | — | — |
+| Support Vector Machine (SVM) | 94%
+| Logistic Regression | 89%
 
-> Fill in your actual metric values from your notebook here.
 
 - **Best model:** Support Vector Machine (SVM)
 - **Evaluation metrics:** Accuracy, Precision, Recall, F1 Score
