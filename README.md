@@ -1,10 +1,10 @@
 # UMBC-DATA606-Capstone
 # Fake News Detection Using Machine Learning
 
-> A natural language processing pipeline that classifies news articles as **Real** or **Fake** using SVM and Logistic Regression — deployed as an interactive Streamlit web app.
+> A natural language processing pipeline that classifies news articles as **Real** or **Fake** using SVM and Logistic Regression deployed as an interactive Streamlit web app.
 
 **Author:** Saivarun Kotha  
-**Program:** MS Data Science, UMBC — Capstone Project  
+**Program:** MS Data Science, UMBC Capstone Project  
 **Advisor:** Dr. Chaojie (Jay) Wang
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kothasaivarun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kothasaivarun/)
@@ -16,7 +16,7 @@
 
 ## Problem statement
 
-The rapid spread of misinformation on social media and online news platforms has become a serious societal challenge — influencing elections, public health decisions, and shaping public opinion. This project builds an automated fake news detection system that can classify a news article as **Real** or **Fake** with high accuracy, using only its text content.
+The rapid spread of misinformation on social media and online news platforms has become a serious societal challenge influencing elections, public health decisions, and shaping public opinion. This project builds an automated fake news detection system that can classify a news article as **Real** or **Fake** with high accuracy, using only its text content.
 
 ---
 
@@ -38,9 +38,9 @@ Each row represents a single news article. The `text` column contains the full a
 ## Approach & methodology
 
 ### 1. Exploratory Data Analysis
-- Analyzed article length distributions across fake vs. real news — significant variance found
+- Analyzed article length distributions across fake vs. real news significant variance found
 - Visualized word frequency distributions and class balance using Plotly Express
-- Checked for missing values and duplicates — dataset was clean
+- Checked for missing values and duplicates dataset was clean
 
 ### 2. Text preprocessing (NLP pipeline)
 - Lowercasing, punctuation removal, stopword removal
@@ -64,7 +64,7 @@ Two models were trained and compared:
 
 ## Streamlit app
 
-A web application was built with Streamlit that allows any user — technical or not — to test the model in real time.
+A web application was built with Streamlit that allows any user technical or not  to test the model in real time.
 
 **How it works:**
 1. User pastes or types a news article into the input box
