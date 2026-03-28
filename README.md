@@ -28,7 +28,7 @@ The rapid spread of misinformation on social media and online news platforms has
 | Size | ~25 MB |
 | Rows | 9,900 articles |
 | Columns | 2 (`text`, `label`) |
-| Target | `label` — Binary: `"Fake"` or `"Real"` |
+| Target | `label` Binary: `"Fake"` or `"Real"` |
 | Split | 80% training / 20% testing |
 
 Each row represents a single news article. The `text` column contains the full article body; the `label` column is the ground-truth classification.
@@ -111,7 +111,7 @@ UMBC-DATA606-Capstone/
 - The Streamlit app makes the model accessible to non-technical users
 
 **Limitations:**
-- Model relies on text content only — metadata (author, source, publication date) could improve performance
+- Model relies on text content only metadata (author, source, publication date) could improve performance
 - Dataset limited to ~9,900 articles; larger corpora may improve generalization
 - Transformer-based models (BERT, RoBERTa) could significantly boost accuracy in future work
 
